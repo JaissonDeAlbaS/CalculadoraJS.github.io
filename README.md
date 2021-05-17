@@ -1,2 +1,2 @@
 # CalculadoraJS.github.io
-Desarrollo de una calculadora con Html5, Css3 &amp; Javascript
+Desarrollo de una calculadora con HTML5, CSS3 &amp; Javascript
